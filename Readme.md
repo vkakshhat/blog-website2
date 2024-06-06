@@ -48,4 +48,4 @@ Follow the steps below to get the Blog Website project up and running locally:
 
 ## LinkedIn Post
 
-Check out the LinkedIn post for this project [here](https://www.linkedin.com/posts/himanshumohanty_bharatintern-fullstackdevelopment-webdevelopment-activity-7146180423738400768-z0GJ?utm_source=share&utm_medium=member_desktop).
+Check out the LinkedIn post for this project [here](https://www.linkedin.com/posts/vk-akshat_fullstackdevelopment-webdevelopment-html-activity-7204332262123802624-pytQ?utm_source=share&utm_medium=member_desktop).
